@@ -1,0 +1,1284 @@
+﻿Log file open, 04/27/19 23:20:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: HeavenPath
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1512565193) SRandInit(1512565193).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.322000
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.590s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-BLN4QPH (10.13.251.243:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.27-21.20.43:067][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.27-21.20.43:067][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.27-21.20.43:081][  0]LogInit: Computer: DESKTOP-BLN4QPH
+[2019.04.27-21.20.43:082][  0]LogInit: User: William
+[2019.04.27-21.20.43:082][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.27-21.20.43:082][  0]LogInit: High frequency timer resolution =2.531252 MHz
+[2019.04.27-21.20.43:082][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.27-21.20.43:082][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.27-21.20.43:082][  0]LogMemory: Process Physical Memory: 275.59 MB used, 275.59 MB peak
+[2019.04.27-21.20.43:082][  0]LogMemory: Process Virtual Memory: 272.90 MB used, 272.90 MB peak
+[2019.04.27-21.20.43:082][  0]LogMemory: Physical Memory: 5293.53 MB used,  10971.07 MB free, 16264.59 MB total
+[2019.04.27-21.20.43:082][  0]LogMemory: Virtual Memory: 4803.55 MB used,  10971.07 MB free, 134217728.00 MB total
+[2019.04.27-21.20.43:105][  0]LogInit: Using OS detected language (fr-FR).
+[2019.04.27-21.20.43:105][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.04.27-21.20.43:108][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2019.04.27-21.20.43:536][  0]LogStreaming: Display: Took  0.432s to EndInitTextLocalization.
+[2019.04.27-21.20.43:536][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.27-21.20.43:586][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.27-21.20.43:586][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.27-21.20.43:862][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.27-21.20.43:918][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M1000M' (Feature Level 11_0)
+[2019.04.27-21.20.43:918][  0]LogD3D11RHI:       4063/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.27-21.20.43:926][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.04.27-21.20.43:927][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.27-21.20.43:928][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.27-21.20.43:929][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.27-21.20.43:929][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.27-21.20.43:962][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.27-21.20.43:962][  0]LogD3D11RHI:     GPU DeviceId: 0x13b1 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.27-21.20.43:962][  0]LogWindows: EnumDisplayDevices:
+[2019.04.27-21.20.43:962][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.04.27-21.20.43:962][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.04.27-21.20.43:963][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.04.27-21.20.43:963][  0]LogWindows:    3. 'NVIDIA Quadro M1000M' (P:0 D:0)
+[2019.04.27-21.20.43:963][  0]LogWindows:    4. 'NVIDIA Quadro M1000M' (P:0 D:0)
+[2019.04.27-21.20.43:963][  0]LogWindows:    5. 'NVIDIA Quadro M1000M' (P:0 D:0)
+[2019.04.27-21.20.43:963][  0]LogWindows:    6. 'NVIDIA Quadro M1000M' (P:0 D:0)
+[2019.04.27-21.20.43:964][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.27-21.20.43:964][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M1000M
+[2019.04.27-21.20.43:964][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.27-21.20.43:964][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.27-21.20.43:964][  0]LogRHI: Texture pool is 2844 MB (70% of 4063 MB)
+[2019.04.27-21.20.44:001][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2019.04.27-21.20.44:001][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.04.27-21.20.44:001][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.27-21.20.44:015][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.27-21.20.44:016][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (G:/Heaven'sPath/ProjetUnreal/HeavenPath/Intermediate/Shaders/WorkingDirectory/15652/).
+[2019.04.27-21.20.44:016][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/William/AppData/Local/Temp/UnrealShaderWorkingDir/294EBF144DCD7D79006FD793D52E2ED5/'.
+[2019.04.27-21.20.44:267][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.27-21.20.44:283][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.27-21.20.44:298][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.27-21.20.44:313][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.27-21.20.44:329][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.27-21.20.44:344][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.27-21.20.44:360][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.27-21.20.44:375][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.27-21.20.44:382][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.27-21.20.44:395][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.04.27-21.20.44:408][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.04.27-21.20.44:420][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.04.27-21.20.44:433][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.04.27-21.20.44:447][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.04.27-21.20.44:459][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.04.27-21.20.44:485][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.04.27-21.20.44:485][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.04.27-21.20.44:498][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-21.20.44:499][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.27-21.20.44:539][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.27-21.20.44:552][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.27-21.20.44:564][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.27-21.20.44:577][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.27-21.20.44:591][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.27-21.20.44:604][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.27-21.20.44:604][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.27-21.20.44:760][  0]LogXGEController: Cleaning working directory: C:/Users/William/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.27-21.20.44:761][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.27-21.20.44:761][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.27-21.20.44:761][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.27-21.20.45:577][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.27-21.20.45:666][  0]LogDerivedDataCache: Loaded boot cache 0.09s 87MB C:/Users/William/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.04.27-21.20.45:666][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/William/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.04.27-21.20.45:667][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Heaven'sPath/ProjetUnreal/HeavenPath/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.27-21.20.45:667][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.27-21.20.45:667][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Heaven'sPath/ProjetUnreal/HeavenPath/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.27-21.20.45:667][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.27-21.20.45:689][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.27-21.20.45:702][  0]LogDerivedDataCache: Using Local data cache path C:/Users/William/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.27-21.20.45:702][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.27-21.20.45:702][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.27-21.20.45:715][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.27-21.20.45:716][  0]LogSlate: Using Freetype 2.6.0
+[2019.04.27-21.20.45:716][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.27-21.20.45:716][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.27-21.20.45:863][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2019.04.27-21.20.46:190][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.27-21.20.46:361][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.27-21.20.46:365][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.27-21.20.46:365][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.27-21.20.46:365][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.27-21.20.46:365][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.04.27-21.20.46:365][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.04.27-21.20.46:403][  0]LogNetVersion: HeavenPath , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4090031591)
+[2019.04.27-21.20.46:880][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.052851 seconds
+[2019.04.27-21.20.46:888][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.04.27-21.20.46:888][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2019.04.27-21.20.46:888][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.27-21.20.48:813][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.27-21.20.48:854][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.27-21.20.49:285][  0]SourceControl: Source control is disabled
+[2019.04.27-21.20.49:285][  0]SourceControl: Source control is disabled
+[2019.04.27-21.20.49:307][  0]SourceControl: Source control is disabled
+[2019.04.27-21.20.49:329][  0]SourceControl: Source control is disabled
+[2019.04.27-21.20.49:903][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.27-21.20.50:080][  0]LogOcInput: OculusInput pre-init called
+[2019.04.27-21.20.50:207][  0]LogEngine: Initializing Engine...
+[2019.04.27-21.20.50:208][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.27-21.20.50:210][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.27-21.20.50:210][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.27-21.20.50:511][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.27-21.20.50:522][  0]LogInit: XAudio2 using 'Haut-parleur (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.27-21.20.50:543][  0]LogInit: FAudioDevice initialized.
+[2019.04.27-21.20.50:699][  0]LogDerivedDataCache: Saved boot cache 0.15s 87MB C:/Users/William/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.04.27-21.20.50:721][  0]LogInit: Texture streaming: Enabled
+[2019.04.27-21.20.50:745][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.27-21.20.50:746][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={61E841EE-4022-6807-9E65-599FDBBD61F7}
+[2019.04.27-21.20.50:769][  0]LogInit: Transaction tracking system initialized
+[2019.04.27-21.20.50:804][  0]BlueprintLog: New page: Editor Load
+[2019.04.27-21.20.50:913][  0]LocalizationService: Localization service is disabled
+[2019.04.27-21.20.51:019][  0]LogLinker: Warning: Can't find file '/Game/InventorySystem/Documentation/InventorySystem_TUT_Intro'
+[2019.04.27-21.20.51:019][  0]LogLinker: Warning: Can't find file '/Game/InventorySystem/Documentation/InventorySystem_TUT_Intro'
+[2019.04.27-21.20.51:019][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/InventorySystem/Documentation/InventorySystem_TUT_Intro.InventorySystem_TUT_Intro_C'
+[2019.04.27-21.20.51:049][  0]LogConsoleResponse: Display: 
+[2019.04.27-21.20.51:225][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.27-21.20.51:225][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.27-21.20.51:225][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.27-21.20.51:225][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.27-21.20.51:225][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.27-21.20.51:659][  0]LogFileCache: Scanning file cache for directory 'G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/' took 0.02s
+[2019.04.27-21.20.51:728][  0]SourceControl: Source control is disabled
+[2019.04.27-21.20.51:826][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.27-21.20.51:828][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.27-21.20.55:492][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.04.27-21.20.55:492][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.27-21.20.55:502][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.27-21.20.57:212][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.04.27-21.20.57:213][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.27-21.20.57:424][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.27-21.20.57:425][  0]Cmd: MAP LOAD FILE="G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.27-21.20.57:425][  0]LightingResults: New page: Lighting Build
+[2019.04.27-21.20.57:431][  0]MapCheck: New page: Map Check
+[2019.04.27-21.20.57:431][  0]LightingResults: New page: Lighting Build
+[2019.04.27-21.20.57:458][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1c22e7100, Size=44, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.04.27-21.20.57:467][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b1c22e7100, Size=44
+[2019.04.27-21.20.57:467][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1c22e7100, Size=44, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_1:ExecuteUbergraph_FirstPersonCharacter
+[2019.04.27-21.20.57:472][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1c22e6830, Size=44, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.04.27-21.20.57:549][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1ed1daf98, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2019.04.27-21.20.57:552][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b1ed1daf98, Size=52
+[2019.04.27-21.20.57:552][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1ed1daf98, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_7:ExecuteUbergraph_FirstPersonHUD
+[2019.04.27-21.20.57:554][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1ed1db4a0, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2019.04.27-21.20.57:692][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.27-21.20.57:728][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.27-21.20.57:744][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b1c22e7100, Size=44
+[2019.04.27-21.20.57:744][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b1ed1daf98, Size=52
+[2019.04.27-21.20.57:745][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.27-21.20.57:817][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72,116ms to complete.
+[2019.04.27-21.20.57:817][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.392
+[2019.04.27-21.20.57:911][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_e90_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_1068_0///####STATCAT_Advanced####
+[2019.04.27-21.20.57:911][  0]LogCollectionManager: Loaded 0 collections in 0.002818 seconds
+[2019.04.27-21.20.57:966][  0]LogFileCache: Scanning file cache for directory 'G:/Heaven'sPath/ProjetUnreal/HeavenPath/Saved/Collections/' took 0.01s
+[2019.04.27-21.20.57:966][  0]LogFileCache: Scanning file cache for directory 'G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/Developers/William/Collections/' took 0.01s
+[2019.04.27-21.20.57:966][  0]LogFileCache: Scanning file cache for directory 'G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/Collections/' took 0.01s
+[2019.04.27-21.20.57:966][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.27-21.20.57:979][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2452 classes and 558 folders.
+[2019.04.27-21.20.57:992][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.27-21.20.58:045][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.27-21.20.58:053][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2019.04.27-21.20.58:061][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.27-21.20.59:225][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.04.27-21.20.59:267][  0]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.27-21.20.59:279][  0]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.27-21.20.59:415][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.HeavenPath
+[2019.04.27-21.20.59:415][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2019.04.27-21.20.59:415][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2019.04.27-21.20.59:415][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2019.04.27-21.20.59:415][  0]LogTemp: BranchPath = DESKTOP-BLN4QPH/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-BLN4QPH/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2019.04.27-21.20.59:415][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\William\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.04.27-21.20.59:415][  0]LogRenderer: Reallocating scene render targets to support 1008x552 Format 10 NumSamples 1 (Frame:1).
+[2019.04.27-21.20.59:572][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.27-21.20.59:572][  0]LogLoad: (Engine Initialization) Total time: 19.91 seconds
+[2019.04.27-21.20.59:572][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.27-21.20.59:619][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.27-21.20.59:659][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.27-21.20.59:675][  1]LogAssetRegistry: Asset discovery search completed in 13.8349 seconds
+[2019.04.27-21.20.59:678][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.27-21.20.59:678][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2019.04.27-21.21.00:615][ 48]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.27-21.21.02:395][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-21.21.02:606][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1c0cd0d60, Size=136, Default__BP_GameMode_C Function /Game/William/Blueprints/Player/BP_GameMode.BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.04.27-21.21.02:607][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1ad41ec00, Size=128, Default__UI_C Function /Game/William/Blueprints/UI/UI.UI_C:ExecuteUbergraph_UI
+[2019.04.27-21.21.02:621][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1acb4ed60, Size=16, Default__BP_ATH_C Function /Game/William/Blueprints/Player/BP_ATH.BP_ATH_C:ExecuteUbergraph_BP_ATH
+[2019.04.27-21.21.02:632][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1ac9fbe80, Size=8, Default__BP_Interaction_C Function /Game/William/Blueprints/BP_Interaction.BP_Interaction_C:ExecuteUbergraph_BP_Interaction
+[2019.04.27-21.21.02:638][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1d661a480, Size=152, Default__BP_Character_C Function /Game/William/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character
+[2019.04.27-21.21.02:657][161]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b1ac9fbe80, Size=8
+[2019.04.27-21.21.02:657][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1ade855e0, Size=8, Default__BP_Interaction_C Function /Engine/Transient.REINST_BP_Interaction_C_11:ExecuteUbergraph_BP_Interaction
+[2019.04.27-21.21.02:657][161]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b1acb4ed60, Size=16
+[2019.04.27-21.21.02:657][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1b20acde0, Size=16, Default__BP_ATH_C Function /Engine/Transient.REINST_BP_ATH_C_12:ExecuteUbergraph_BP_ATH
+[2019.04.27-21.21.02:658][161]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b1d661a480, Size=152
+[2019.04.27-21.21.02:658][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1d655da80, Size=152, Default__BP_Character_C Function /Engine/Transient.REINST_BP_Character_C_13:ExecuteUbergraph_BP_Character
+[2019.04.27-21.21.02:658][161]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b1c0cd0d60, Size=136
+[2019.04.27-21.21.02:658][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1d655bd80, Size=136, Default__BP_GameMode_C Function /Engine/Transient.REINST_BP_GameMode_C_14:ExecuteUbergraph_BP_GameMode
+[2019.04.27-21.21.02:658][161]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b1ad41ec00, Size=128
+[2019.04.27-21.21.02:658][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1ad175e80, Size=128, Default__UI_C Function /Engine/Transient.REINST_UI_C_0:ExecuteUbergraph_UI
+[2019.04.27-21.21.02:673][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1ade869e8, Size=8, Default__BP_Interaction_C Function /Game/William/Blueprints/BP_Interaction.BP_Interaction_C:ExecuteUbergraph_BP_Interaction
+[2019.04.27-21.21.02:674][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1ac946550, Size=16, Default__BP_ATH_C Function /Game/William/Blueprints/Player/BP_ATH.BP_ATH_C:ExecuteUbergraph_BP_ATH
+[2019.04.27-21.21.02:676][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1d645ff60, Size=152, Default__BP_Character_C Function /Game/William/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character
+[2019.04.27-21.21.02:679][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1d645e020, Size=136, Default__BP_GameMode_C Function /Game/William/Blueprints/Player/BP_GameMode.BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2019.04.27-21.21.02:680][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b1aded5780, Size=128, Default__UI_C Function /Game/William/Blueprints/UI/UI.UI_C:ExecuteUbergraph_UI
+[2019.04.27-21.21.03:069][161]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2019.04.27-21.21.03:389][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b20f1e19b8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.04.27-21.21.03:390][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b20f1e19b0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.04.27-21.21.04:189][161]LogMaterial: Missing cached shader map for material Mat_Alert, compiling. 
+[2019.04.27-21.21.04:562][161]LogMaterial: Missing cached shader map for material Mat_Alert, compiling. 
+[2019.04.27-21.21.04:573][161]LogMaterial: Missing cached shader map for material Mat_Alert, compiling. 
+[2019.04.27-21.21.04:587][161]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.27-21.21.04:587][161]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.27-21.21.04:587][161]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.27-21.21.04:587][161]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.27-21.21.04:613][161]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.04.27-21.21.04:627][161]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.27-21.21.05:315][189]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.27-21.21.05:397][193]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.27-21.21.05:415][194]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.27-21.21.05:416][194]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.27-21.21.05:559][201]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.27-21.21.05:687][207]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.27-21.21.05:687][207]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.27-21.21.05:953][220]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.27-21.21.05:974][221]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.27-21.21.06:125][229]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.27-21.21.06:228][234]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.27-21.21.06:285][237]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.27-21.21.06:558][238]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.27-21.21.06:558][238]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.27-21.21.06:639][242]MaterialEditorStats: Base pass shader: 100 instructions
+[2019.04.27-21.21.06:639][242]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2019.04.27-21.21.06:639][242]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.04.27-21.21.06:639][242]MaterialEditorStats: Texture samplers: 2/16
+[2019.04.27-21.21.07:517][292]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b1ad175e80, Size=128
+[2019.04.27-21.21.07:517][292]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b1d655bd80, Size=136
+[2019.04.27-21.21.07:517][292]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b1b20acde0, Size=16
+[2019.04.27-21.21.07:517][292]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b1ade855e0, Size=8
+[2019.04.27-21.21.07:517][292]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b1d655da80, Size=152
+[2019.04.27-21.21.08:976][379]LogSlate: Window 'Mat_Alert' being destroyed
+[2019.04.27-21.21.08:980][379]LogSlate: Window 'Mat_Alert' being destroyed
+[2019.04.27-21.21.18:572][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-21.21.19:418][986]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b21109f5b8, Size=56, Default__Interaction_Drive_C Function /Game/William/Blueprints/Interaction_Drive.Interaction_Drive_C:ExecuteUbergraph_Interaction_Drive
+[2019.04.27-21.21.19:419][986]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b211850940, Size=8, Default__Interaction_Drive_C Function /Game/William/Blueprints/BP_Interaction.BP_Interaction_C:ExecuteUbergraph_BP_Interaction
+[2019.04.27-21.21.19:422][986]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b21109f5b8, Size=56
+[2019.04.27-21.21.19:422][986]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b211850940, Size=8
+[2019.04.27-21.21.19:422][986]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b21109f5b8, Size=56, Default__Interaction_Drive_C Function /Engine/Transient.REINST_Interaction_Drive_C_32:ExecuteUbergraph_Interaction_Drive
+[2019.04.27-21.21.19:422][986]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b211850940, Size=8, Default__Interaction_Drive_C Function /Game/William/Blueprints/BP_Interaction.BP_Interaction_C:ExecuteUbergraph_BP_Interaction
+[2019.04.27-21.21.19:426][986]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b2110e0b10, Size=56, Default__Interaction_Drive_C Function /Game/William/Blueprints/Interaction_Drive.Interaction_Drive_C:ExecuteUbergraph_Interaction_Drive
+[2019.04.27-21.21.19:426][986]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b211850ed8, Size=8, Default__Interaction_Drive_C Function /Game/William/Blueprints/BP_Interaction.BP_Interaction_C:ExecuteUbergraph_BP_Interaction
+[2019.04.27-21.21.19:558][986]LogAIModule: Creating AISystem for world TestField
+[2019.04.27-21.21.19:591][986]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b21109f5b8, Size=56
+[2019.04.27-21.21.19:591][986]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b211850940, Size=8
+[2019.04.27-21.21.19:597][986]Cmd: MAP LOAD FILE="G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/William/Maps/TestField.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.27-21.21.19:597][986]LightingResults: New page: Lighting Build
+[2019.04.27-21.21.19:598][986]LoadErrors: New page: Loading map: TestField.umap
+[2019.04.27-21.21.19:599][986]MapCheck: New page: Map Check
+[2019.04.27-21.21.19:599][986]LightingResults: New page: Lighting Build
+[2019.04.27-21.21.19:693][986]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.27-21.21.19:792][986]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.27-21.21.19:877][986]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 84,632ms to complete.
+[2019.04.27-21.21.19:877][986]LogFileHelpers: Loading map 'TestField' took 0.281
+[2019.04.27-21.21.21:529][ 80]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.27-21.21.21:548][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/William/Maps/TestField.TestField:PersistentLevel' has LevelScriptBlueprint '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField' with GeneratedClass '/Game/William/Maps/TestField.TestField_C' with ClassGeneratedBy '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField'
+[2019.04.27-21.21.21:548][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.27-21.21.21:548][ 80]PIE: New page: PIE session: TestField (28 avr. 2019 01:21:21)
+[2019.04.27-21.21.21:548][ 80]LogPlayLevel: Creating play world package: /Game/William/Maps/UEDPIE_0_TestField
+[2019.04.27-21.21.21:575][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026293s)
+[2019.04.27-21.21.21:576][ 80]LogAIModule: Creating AISystem for world TestField
+[2019.04.27-21.21.21:576][ 80]LogPlayLevel: PIE: World Init took: (0.001433s)
+[2019.04.27-21.21.21:576][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/William/Maps/TestField.TestField to /Game/William/Maps/UEDPIE_0_TestField.TestField (0.027964s)
+[2019.04.27-21.21.21:604][ 80]LogInit: XAudio2 using 'Haut-parleur (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.27-21.21.21:613][ 80]LogInit: FAudioDevice initialized.
+[2019.04.27-21.21.21:676][ 80]LogLoad: Game class is 'BP_GameMode_C'
+[2019.04.27-21.21.21:679][ 80]LogWorld: Bringing World /Game/William/Maps/UEDPIE_0_TestField.TestField up for play (max tick rate 60) at 2019.04.27-23.21.21
+[2019.04.27-21.21.21:679][ 80]LogWorld: Bringing up level for play took: 0.002199
+[2019.04.27-21.21.21:685][ 80]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2019.04.27-21.21.21:691][ 80]PIE: Play in editor start time for /Game/William/Maps/UEDPIE_0_TestField -0,458
+[2019.04.27-21.21.21:691][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/William/Maps/TestField.TestField:PersistentLevel' has LevelScriptBlueprint '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField' with GeneratedClass '/Game/William/Maps/TestField.TestField_C' with ClassGeneratedBy '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField'
+[2019.04.27-21.21.21:692][ 80]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.033333
+[2019.04.27-21.21.21:722][ 80]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.04.27-21.21.21:824][ 81]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.066667
+[2019.04.27-21.21.21:841][ 82]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.1
+[2019.04.27-21.21.21:857][ 83]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.133333
+[2019.04.27-21.21.21:873][ 84]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.166667
+[2019.04.27-21.21.21:890][ 85]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.2
+[2019.04.27-21.21.21:907][ 86]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.233333
+[2019.04.27-21.21.21:923][ 87]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.266667
+[2019.04.27-21.21.21:940][ 88]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.3
+[2019.04.27-21.21.21:956][ 89]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.333333
+[2019.04.27-21.21.21:973][ 90]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.366667
+[2019.04.27-21.21.21:990][ 91]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.4
+[2019.04.27-21.21.22:006][ 92]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.433333
+[2019.04.27-21.21.22:023][ 93]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.466667
+[2019.04.27-21.21.22:040][ 94]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.5
+[2019.04.27-21.21.22:056][ 95]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.533333
+[2019.04.27-21.21.22:073][ 96]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.566667
+[2019.04.27-21.21.22:090][ 97]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.6
+[2019.04.27-21.21.22:106][ 98]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.633333
+[2019.04.27-21.21.22:123][ 99]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.666667
+[2019.04.27-21.21.22:140][100]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.7
+[2019.04.27-21.21.22:157][101]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.733333
+[2019.04.27-21.21.22:173][102]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.766666
+[2019.04.27-21.21.22:190][103]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.8
+[2019.04.27-21.21.22:207][104]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.833333
+[2019.04.27-21.21.22:223][105]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.866666
+[2019.04.27-21.21.22:249][106]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.9
+[2019.04.27-21.21.22:257][107]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.933333
+[2019.04.27-21.21.22:274][108]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.966666
+[2019.04.27-21.21.22:291][109]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.0
+[2019.04.27-21.21.22:307][110]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.033333
+[2019.04.27-21.21.22:324][111]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.066666
+[2019.04.27-21.21.22:341][112]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.099999
+[2019.04.27-21.21.22:358][113]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.133333
+[2019.04.27-21.21.22:375][114]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.166666
+[2019.04.27-21.21.22:391][115]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.199999
+[2019.04.27-21.21.22:408][116]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.233333
+[2019.04.27-21.21.22:425][117]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.266666
+[2019.04.27-21.21.22:441][118]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.299999
+[2019.04.27-21.21.22:458][119]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.333333
+[2019.04.27-21.21.22:474][120]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.366666
+[2019.04.27-21.21.22:491][121]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.399999
+[2019.04.27-21.21.22:509][122]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.433332
+[2019.04.27-21.21.22:525][123]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.466666
+[2019.04.27-21.21.22:541][124]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.499999
+[2019.04.27-21.21.22:558][125]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.533332
+[2019.04.27-21.21.22:575][126]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.566666
+[2019.04.27-21.21.22:591][127]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.599999
+[2019.04.27-21.21.22:609][128]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.633332
+[2019.04.27-21.21.22:625][129]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.666666
+[2019.04.27-21.21.22:641][130]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.699999
+[2019.04.27-21.21.22:658][131]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.733332
+[2019.04.27-21.21.22:674][132]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.766665
+[2019.04.27-21.21.22:691][133]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.799999
+[2019.04.27-21.21.22:708][134]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.833332
+[2019.04.27-21.21.22:724][135]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.866665
+[2019.04.27-21.21.22:741][136]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.899999
+[2019.04.27-21.21.22:758][137]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.933332
+[2019.04.27-21.21.22:774][138]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.966665
+[2019.04.27-21.21.22:791][139]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.999999
+[2019.04.27-21.21.22:808][140]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.033332
+[2019.04.27-21.21.22:824][141]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.066665
+[2019.04.27-21.21.22:841][142]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.099998
+[2019.04.27-21.21.22:858][143]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.133332
+[2019.04.27-21.21.22:875][144]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.166665
+[2019.04.27-21.21.22:892][145]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.199998
+[2019.04.27-21.21.22:908][146]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.233332
+[2019.04.27-21.21.22:925][147]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.266665
+[2019.04.27-21.21.22:942][148]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.299998
+[2019.04.27-21.21.22:958][149]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.333332
+[2019.04.27-21.21.22:975][150]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.366665
+[2019.04.27-21.21.22:991][151]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.399998
+[2019.04.27-21.21.23:008][152]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.433331
+[2019.04.27-21.21.23:025][153]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.466665
+[2019.04.27-21.21.23:042][154]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.499998
+[2019.04.27-21.21.23:057][155]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.533331
+[2019.04.27-21.21.23:074][156]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.566665
+[2019.04.27-21.21.23:091][157]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.599998
+[2019.04.27-21.21.23:108][158]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.633331
+[2019.04.27-21.21.23:124][159]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.666665
+[2019.04.27-21.21.23:142][160]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.699998
+[2019.04.27-21.21.23:158][161]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.733331
+[2019.04.27-21.21.23:175][162]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.766665
+[2019.04.27-21.21.23:192][163]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.799998
+[2019.04.27-21.21.23:207][164]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.833331
+[2019.04.27-21.21.23:224][165]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.866664
+[2019.04.27-21.21.23:241][166]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.899998
+[2019.04.27-21.21.23:258][167]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.933331
+[2019.04.27-21.21.23:275][168]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.966664
+[2019.04.27-21.21.23:292][169]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.999998
+[2019.04.27-21.21.23:309][170]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.033331
+[2019.04.27-21.21.23:325][171]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.066664
+[2019.04.27-21.21.23:341][172]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.099998
+[2019.04.27-21.21.23:358][173]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.133331
+[2019.04.27-21.21.23:374][174]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.166664
+[2019.04.27-21.21.23:391][175]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.199997
+[2019.04.27-21.21.23:408][176]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.233331
+[2019.04.27-21.21.23:425][177]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.266664
+[2019.04.27-21.21.23:441][178]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.299997
+[2019.04.27-21.21.23:458][179]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.333331
+[2019.04.27-21.21.23:474][180]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.366664
+[2019.04.27-21.21.23:491][181]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.399997
+[2019.04.27-21.21.23:508][182]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.433331
+[2019.04.27-21.21.23:524][183]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.466664
+[2019.04.27-21.21.23:541][184]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.499997
+[2019.04.27-21.21.23:558][185]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.53333
+[2019.04.27-21.21.23:576][186]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.566664
+[2019.04.27-21.21.23:591][187]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.599997
+[2019.04.27-21.21.23:608][188]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.63333
+[2019.04.27-21.21.23:624][189]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.666664
+[2019.04.27-21.21.23:641][190]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.699997
+[2019.04.27-21.21.23:658][191]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.73333
+[2019.04.27-21.21.23:675][192]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.766664
+[2019.04.27-21.21.23:691][193]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.799997
+[2019.04.27-21.21.23:708][194]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.83333
+[2019.04.27-21.21.23:725][195]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.866663
+[2019.04.27-21.21.23:741][196]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.908886
+[2019.04.27-21.21.23:758][197]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.959997
+[2019.04.27-21.21.23:774][198]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.019997
+[2019.04.27-21.21.23:791][199]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.088885
+[2019.04.27-21.21.23:808][200]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.166663
+[2019.04.27-21.21.23:824][201]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.25333
+[2019.04.27-21.21.23:841][202]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.348886
+[2019.04.27-21.21.23:857][203]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.45333
+[2019.04.27-21.21.23:874][204]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.566663
+[2019.04.27-21.21.23:891][205]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.688886
+[2019.04.27-21.21.23:907][206]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.819997
+[2019.04.27-21.21.23:924][207]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.959997
+[2019.04.27-21.21.23:941][208]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.108886
+[2019.04.27-21.21.23:957][209]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.266664
+[2019.04.27-21.21.23:974][210]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.43333
+[2019.04.27-21.21.23:991][211]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.608886
+[2019.04.27-21.21.24:008][212]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.79333
+[2019.04.27-21.21.24:024][213]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.986663
+[2019.04.27-21.21.24:041][214]LogBlueprintUserMessages: [BP_GameMode_C_0] -6.188886
+[2019.04.27-21.21.24:058][215]LogBlueprintUserMessages: [BP_GameMode_C_0] -6.399997
+[2019.04.27-21.21.24:074][216]LogBlueprintUserMessages: [BP_GameMode_C_0] -6.619997
+[2019.04.27-21.21.24:091][217]LogBlueprintUserMessages: [BP_GameMode_C_0] -6.848886
+[2019.04.27-21.21.24:108][218]LogBlueprintUserMessages: [BP_GameMode_C_0] -7.086663
+[2019.04.27-21.21.24:124][219]LogBlueprintUserMessages: [BP_GameMode_C_0] -7.33333
+[2019.04.27-21.21.24:141][220]LogBlueprintUserMessages: [BP_GameMode_C_0] -7.588885
+[2019.04.27-21.21.24:158][221]LogBlueprintUserMessages: [BP_GameMode_C_0] -7.85333
+[2019.04.27-21.21.24:174][222]LogBlueprintUserMessages: [BP_GameMode_C_0] -8.126663
+[2019.04.27-21.21.24:191][223]LogBlueprintUserMessages: [BP_GameMode_C_0] -8.408885
+[2019.04.27-21.21.24:208][224]LogBlueprintUserMessages: [BP_GameMode_C_0] -8.699996
+[2019.04.27-21.21.24:224][225]LogBlueprintUserMessages: [BP_GameMode_C_0] -8.999996
+[2019.04.27-21.21.24:241][226]LogBlueprintUserMessages: [BP_GameMode_C_0] -9.308885
+[2019.04.27-21.21.24:258][227]LogBlueprintUserMessages: [BP_GameMode_C_0] -9.626662
+[2019.04.27-21.21.24:274][228]LogBlueprintUserMessages: [BP_GameMode_C_0] -9.953329
+[2019.04.27-21.21.24:291][229]LogBlueprintUserMessages: [BP_GameMode_C_0] -10.288884
+[2019.04.27-21.21.24:308][230]LogBlueprintUserMessages: [BP_GameMode_C_0] -10.633328
+[2019.04.27-21.21.24:324][231]LogBlueprintUserMessages: [BP_GameMode_C_0] -10.986662
+[2019.04.27-21.21.24:341][232]LogBlueprintUserMessages: [BP_GameMode_C_0] -11.348884
+[2019.04.27-21.21.24:358][233]LogBlueprintUserMessages: [BP_GameMode_C_0] -11.719995
+[2019.04.27-21.21.24:374][234]LogBlueprintUserMessages: [BP_GameMode_C_0] -12.099995
+[2019.04.27-21.21.24:391][235]LogBlueprintUserMessages: [BP_GameMode_C_0] -12.488883
+[2019.04.27-21.21.24:408][236]LogBlueprintUserMessages: [BP_GameMode_C_0] -12.886661
+[2019.04.27-21.21.24:424][237]LogBlueprintUserMessages: [BP_GameMode_C_0] -13.293327
+[2019.04.27-21.21.24:441][238]LogBlueprintUserMessages: [BP_GameMode_C_0] -13.708882
+[2019.04.27-21.21.24:458][239]LogBlueprintUserMessages: [BP_GameMode_C_0] -14.133327
+[2019.04.27-21.21.24:475][240]LogBlueprintUserMessages: [BP_GameMode_C_0] -14.56666
+[2019.04.27-21.21.24:491][241]LogBlueprintUserMessages: [BP_GameMode_C_0] -15.008882
+[2019.04.27-21.21.24:508][242]LogBlueprintUserMessages: [BP_GameMode_C_0] -15.459992
+[2019.04.27-21.21.24:524][243]LogBlueprintUserMessages: [BP_GameMode_C_0] -15.919992
+[2019.04.27-21.21.24:541][244]LogBlueprintUserMessages: [BP_GameMode_C_0] -16.388882
+[2019.04.27-21.21.24:558][245]LogBlueprintUserMessages: [BP_GameMode_C_0] -16.866659
+[2019.04.27-21.21.24:575][246]LogBlueprintUserMessages: [BP_GameMode_C_0] -17.353325
+[2019.04.27-21.21.24:592][247]LogBlueprintUserMessages: [BP_GameMode_C_0] -17.848881
+[2019.04.27-21.21.24:607][248]LogBlueprintUserMessages: [BP_GameMode_C_0] -18.348881
+[2019.04.27-21.21.24:624][249]LogBlueprintUserMessages: [BP_GameMode_C_0] -18.848881
+[2019.04.27-21.21.24:641][250]LogBlueprintUserMessages: [BP_GameMode_C_0] -19.348881
+[2019.04.27-21.21.24:658][251]LogBlueprintUserMessages: [BP_GameMode_C_0] -19.848881
+[2019.04.27-21.21.24:674][252]LogBlueprintUserMessages: [BP_GameMode_C_0] -20.348881
+[2019.04.27-21.21.24:691][253]LogBlueprintUserMessages: [BP_GameMode_C_0] -20.848881
+[2019.04.27-21.21.24:708][254]LogBlueprintUserMessages: [BP_GameMode_C_0] -21.348881
+[2019.04.27-21.21.24:725][255]LogBlueprintUserMessages: [BP_GameMode_C_0] -21.848881
+[2019.04.27-21.21.24:741][256]LogBlueprintUserMessages: [BP_GameMode_C_0] -22.348881
+[2019.04.27-21.21.24:758][257]LogBlueprintUserMessages: [BP_GameMode_C_0] -22.848881
+[2019.04.27-21.21.24:775][258]LogBlueprintUserMessages: [BP_GameMode_C_0] -23.348881
+[2019.04.27-21.21.24:791][259]LogBlueprintUserMessages: [BP_GameMode_C_0] -23.848881
+[2019.04.27-21.21.24:808][260]LogBlueprintUserMessages: [BP_GameMode_C_0] -24.348881
+[2019.04.27-21.21.24:824][261]LogBlueprintUserMessages: [BP_GameMode_C_0] -24.848881
+[2019.04.27-21.21.24:841][262]LogBlueprintUserMessages: [BP_GameMode_C_0] -25.348881
+[2019.04.27-21.21.24:857][263]LogBlueprintUserMessages: [BP_GameMode_C_0] -25.848881
+[2019.04.27-21.21.24:874][264]LogBlueprintUserMessages: [BP_GameMode_C_0] -26.348881
+[2019.04.27-21.21.24:891][265]LogBlueprintUserMessages: [BP_GameMode_C_0] -26.848881
+[2019.04.27-21.21.24:908][266]LogBlueprintUserMessages: [BP_GameMode_C_0] -27.348881
+[2019.04.27-21.21.24:924][267]LogBlueprintUserMessages: [BP_GameMode_C_0] -27.848881
+[2019.04.27-21.21.24:941][268]LogBlueprintUserMessages: [BP_GameMode_C_0] -28.348881
+[2019.04.27-21.21.24:958][269]LogBlueprintUserMessages: [BP_GameMode_C_0] -28.848881
+[2019.04.27-21.21.24:975][270]LogBlueprintUserMessages: [BP_GameMode_C_0] -29.348881
+[2019.04.27-21.21.24:992][271]LogBlueprintUserMessages: [BP_GameMode_C_0] -29.848881
+[2019.04.27-21.21.25:008][272]LogBlueprintUserMessages: [BP_GameMode_C_0] -30.348881
+[2019.04.27-21.21.25:025][273]LogBlueprintUserMessages: [BP_GameMode_C_0] -30.848881
+[2019.04.27-21.21.25:042][274]LogBlueprintUserMessages: [BP_GameMode_C_0] -31.348881
+[2019.04.27-21.21.25:057][275]LogBlueprintUserMessages: [BP_GameMode_C_0] -31.848881
+[2019.04.27-21.21.25:074][276]LogBlueprintUserMessages: [BP_GameMode_C_0] -32.348881
+[2019.04.27-21.21.25:091][277]LogBlueprintUserMessages: [BP_GameMode_C_0] -32.848881
+[2019.04.27-21.21.25:108][278]LogBlueprintUserMessages: [BP_GameMode_C_0] -33.348881
+[2019.04.27-21.21.25:125][279]LogBlueprintUserMessages: [BP_GameMode_C_0] -33.848881
+[2019.04.27-21.21.25:141][280]LogBlueprintUserMessages: [BP_GameMode_C_0] -34.348881
+[2019.04.27-21.21.25:157][281]LogBlueprintUserMessages: [BP_GameMode_C_0] -34.848881
+[2019.04.27-21.21.25:174][282]LogBlueprintUserMessages: [BP_GameMode_C_0] -35.348881
+[2019.04.27-21.21.25:191][283]LogBlueprintUserMessages: [BP_GameMode_C_0] -35.848881
+[2019.04.27-21.21.25:208][284]LogBlueprintUserMessages: [BP_GameMode_C_0] -36.348881
+[2019.04.27-21.21.25:224][285]LogBlueprintUserMessages: [BP_GameMode_C_0] -36.848881
+[2019.04.27-21.21.25:241][286]LogBlueprintUserMessages: [BP_GameMode_C_0] -37.348881
+[2019.04.27-21.21.25:258][287]LogBlueprintUserMessages: [BP_GameMode_C_0] -37.848881
+[2019.04.27-21.21.25:274][288]LogBlueprintUserMessages: [BP_GameMode_C_0] -38.348881
+[2019.04.27-21.21.25:291][289]LogBlueprintUserMessages: [BP_GameMode_C_0] -38.848881
+[2019.04.27-21.21.25:307][290]LogBlueprintUserMessages: [BP_GameMode_C_0] -39.348881
+[2019.04.27-21.21.25:324][291]LogBlueprintUserMessages: [BP_GameMode_C_0] -39.848881
+[2019.04.27-21.21.25:341][292]LogBlueprintUserMessages: [BP_GameMode_C_0] -40.348881
+[2019.04.27-21.21.25:358][293]LogBlueprintUserMessages: [BP_GameMode_C_0] -40.848881
+[2019.04.27-21.21.25:374][294]LogBlueprintUserMessages: [BP_GameMode_C_0] -41.348881
+[2019.04.27-21.21.25:391][295]LogBlueprintUserMessages: [BP_GameMode_C_0] -41.848881
+[2019.04.27-21.21.25:408][296]LogBlueprintUserMessages: [BP_GameMode_C_0] -42.348881
+[2019.04.27-21.21.25:424][297]LogBlueprintUserMessages: [BP_GameMode_C_0] -42.848881
+[2019.04.27-21.21.25:441][298]LogBlueprintUserMessages: [BP_GameMode_C_0] -43.348881
+[2019.04.27-21.21.25:458][299]LogBlueprintUserMessages: [BP_GameMode_C_0] -43.848881
+[2019.04.27-21.21.25:475][300]LogBlueprintUserMessages: [BP_GameMode_C_0] -44.348881
+[2019.04.27-21.21.25:491][301]LogBlueprintUserMessages: [BP_GameMode_C_0] -44.848881
+[2019.04.27-21.21.25:508][302]LogBlueprintUserMessages: [BP_GameMode_C_0] -45.348881
+[2019.04.27-21.21.25:525][303]LogBlueprintUserMessages: [BP_GameMode_C_0] -45.848881
+[2019.04.27-21.21.25:541][304]LogBlueprintUserMessages: [BP_GameMode_C_0] -46.348881
+[2019.04.27-21.21.25:558][305]LogBlueprintUserMessages: [BP_GameMode_C_0] -46.848881
+[2019.04.27-21.21.25:575][306]LogBlueprintUserMessages: [BP_GameMode_C_0] -47.348881
+[2019.04.27-21.21.25:592][307]LogBlueprintUserMessages: [BP_GameMode_C_0] -47.848881
+[2019.04.27-21.21.25:608][308]LogBlueprintUserMessages: [BP_GameMode_C_0] -48.348881
+[2019.04.27-21.21.25:625][309]LogBlueprintUserMessages: [BP_GameMode_C_0] -48.848881
+[2019.04.27-21.21.25:641][310]LogBlueprintUserMessages: [BP_GameMode_C_0] -49.348881
+[2019.04.27-21.21.25:658][311]LogBlueprintUserMessages: [BP_GameMode_C_0] -49.848881
+[2019.04.27-21.21.25:675][312]LogBlueprintUserMessages: [BP_GameMode_C_0] -50.348881
+[2019.04.27-21.21.25:691][313]LogBlueprintUserMessages: [BP_GameMode_C_0] -50.848881
+[2019.04.27-21.21.25:707][314]LogBlueprintUserMessages: [BP_GameMode_C_0] -51.348881
+[2019.04.27-21.21.25:724][315]LogBlueprintUserMessages: [BP_GameMode_C_0] -51.848881
+[2019.04.27-21.21.25:741][316]LogBlueprintUserMessages: [BP_GameMode_C_0] -52.348881
+[2019.04.27-21.21.25:758][317]LogBlueprintUserMessages: [BP_GameMode_C_0] -52.848881
+[2019.04.27-21.21.25:774][318]LogBlueprintUserMessages: [BP_GameMode_C_0] -53.348881
+[2019.04.27-21.21.25:791][319]LogBlueprintUserMessages: [BP_GameMode_C_0] -53.848881
+[2019.04.27-21.21.25:808][320]LogBlueprintUserMessages: [BP_GameMode_C_0] -54.348881
+[2019.04.27-21.21.25:825][321]LogBlueprintUserMessages: [BP_GameMode_C_0] -54.848881
+[2019.04.27-21.21.25:841][322]LogBlueprintUserMessages: [BP_GameMode_C_0] -55.348881
+[2019.04.27-21.21.25:858][323]LogBlueprintUserMessages: [BP_GameMode_C_0] -55.848881
+[2019.04.27-21.21.25:875][324]LogBlueprintUserMessages: [BP_GameMode_C_0] -56.348881
+[2019.04.27-21.21.25:892][325]LogBlueprintUserMessages: [BP_GameMode_C_0] -56.848881
+[2019.04.27-21.21.25:908][326]LogBlueprintUserMessages: [BP_GameMode_C_0] -57.348881
+[2019.04.27-21.21.25:924][327]LogBlueprintUserMessages: [BP_GameMode_C_0] -57.848881
+[2019.04.27-21.21.25:941][328]LogBlueprintUserMessages: [BP_GameMode_C_0] -58.348881
+[2019.04.27-21.21.25:958][329]LogBlueprintUserMessages: [BP_GameMode_C_0] -58.848881
+[2019.04.27-21.21.25:974][330]LogBlueprintUserMessages: [BP_GameMode_C_0] -59.348881
+[2019.04.27-21.21.25:991][331]LogBlueprintUserMessages: [BP_GameMode_C_0] -59.848881
+[2019.04.27-21.21.26:007][332]LogBlueprintUserMessages: [BP_GameMode_C_0] -60.348881
+[2019.04.27-21.21.26:024][333]LogBlueprintUserMessages: [BP_GameMode_C_0] -60.848881
+[2019.04.27-21.21.26:041][334]LogBlueprintUserMessages: [BP_GameMode_C_0] -61.348881
+[2019.04.27-21.21.26:058][335]LogBlueprintUserMessages: [BP_GameMode_C_0] -61.848881
+[2019.04.27-21.21.26:074][336]LogBlueprintUserMessages: [BP_GameMode_C_0] -62.348881
+[2019.04.27-21.21.26:091][337]LogBlueprintUserMessages: [BP_GameMode_C_0] -62.848881
+[2019.04.27-21.21.26:108][338]LogBlueprintUserMessages: [BP_GameMode_C_0] -63.348881
+[2019.04.27-21.21.26:124][339]LogBlueprintUserMessages: [BP_GameMode_C_0] -63.848881
+[2019.04.27-21.21.26:141][340]LogBlueprintUserMessages: [BP_GameMode_C_0] -64.348877
+[2019.04.27-21.21.26:158][341]LogBlueprintUserMessages: [BP_GameMode_C_0] -64.848877
+[2019.04.27-21.21.26:174][342]LogBlueprintUserMessages: [BP_GameMode_C_0] -65.348877
+[2019.04.27-21.21.26:191][343]LogBlueprintUserMessages: [BP_GameMode_C_0] -65.848877
+[2019.04.27-21.21.26:208][344]LogBlueprintUserMessages: [BP_GameMode_C_0] -66.348877
+[2019.04.27-21.21.26:224][345]LogBlueprintUserMessages: [BP_GameMode_C_0] -66.848877
+[2019.04.27-21.21.26:241][346]LogBlueprintUserMessages: [BP_GameMode_C_0] -67.348877
+[2019.04.27-21.21.26:258][347]LogBlueprintUserMessages: [BP_GameMode_C_0] -67.848877
+[2019.04.27-21.21.26:274][348]LogBlueprintUserMessages: [BP_GameMode_C_0] -68.348877
+[2019.04.27-21.21.26:291][349]LogBlueprintUserMessages: [BP_GameMode_C_0] -68.848877
+[2019.04.27-21.21.26:308][350]LogBlueprintUserMessages: [BP_GameMode_C_0] -69.348877
+[2019.04.27-21.21.26:325][351]LogBlueprintUserMessages: [BP_GameMode_C_0] -69.848877
+[2019.04.27-21.21.26:341][352]LogBlueprintUserMessages: [BP_GameMode_C_0] -70.348877
+[2019.04.27-21.21.26:358][353]LogBlueprintUserMessages: [BP_GameMode_C_0] -70.848877
+[2019.04.27-21.21.26:375][354]LogBlueprintUserMessages: [BP_GameMode_C_0] -71.348877
+[2019.04.27-21.21.26:392][355]LogBlueprintUserMessages: [BP_GameMode_C_0] -71.848877
+[2019.04.27-21.21.26:408][356]LogBlueprintUserMessages: [BP_GameMode_C_0] -72.348877
+[2019.04.27-21.21.26:425][357]LogBlueprintUserMessages: [BP_GameMode_C_0] -72.848877
+[2019.04.27-21.21.26:442][358]LogBlueprintUserMessages: [BP_GameMode_C_0] -73.348877
+[2019.04.27-21.21.26:458][359]LogBlueprintUserMessages: [BP_GameMode_C_0] -73.848877
+[2019.04.27-21.21.26:476][360]LogBlueprintUserMessages: [BP_GameMode_C_0] -74.348877
+[2019.04.27-21.21.26:492][361]LogBlueprintUserMessages: [BP_GameMode_C_0] -74.848877
+[2019.04.27-21.21.26:508][362]LogBlueprintUserMessages: [BP_GameMode_C_0] -75.348877
+[2019.04.27-21.21.26:525][363]LogBlueprintUserMessages: [BP_GameMode_C_0] -75.848877
+[2019.04.27-21.21.26:541][364]LogBlueprintUserMessages: [BP_GameMode_C_0] -76.348877
+[2019.04.27-21.21.26:558][365]LogBlueprintUserMessages: [BP_GameMode_C_0] -76.848877
+[2019.04.27-21.21.26:574][366]LogBlueprintUserMessages: [BP_GameMode_C_0] -77.348877
+[2019.04.27-21.21.26:591][367]LogBlueprintUserMessages: [BP_GameMode_C_0] -77.848877
+[2019.04.27-21.21.26:608][368]LogBlueprintUserMessages: [BP_GameMode_C_0] -78.348877
+[2019.04.27-21.21.26:624][369]LogBlueprintUserMessages: [BP_GameMode_C_0] -78.848877
+[2019.04.27-21.21.26:641][370]LogBlueprintUserMessages: [BP_GameMode_C_0] -79.348877
+[2019.04.27-21.21.26:658][371]LogBlueprintUserMessages: [BP_GameMode_C_0] -79.848877
+[2019.04.27-21.21.26:675][372]LogBlueprintUserMessages: [BP_GameMode_C_0] -80.348877
+[2019.04.27-21.21.26:691][373]LogBlueprintUserMessages: [BP_GameMode_C_0] -80.848877
+[2019.04.27-21.21.26:708][374]LogBlueprintUserMessages: [BP_GameMode_C_0] -81.348877
+[2019.04.27-21.21.26:725][375]LogBlueprintUserMessages: [BP_GameMode_C_0] -81.848877
+[2019.04.27-21.21.26:741][376]LogBlueprintUserMessages: [BP_GameMode_C_0] -82.348877
+[2019.04.27-21.21.26:758][377]LogBlueprintUserMessages: [BP_GameMode_C_0] -82.848877
+[2019.04.27-21.21.26:774][378]LogBlueprintUserMessages: [BP_GameMode_C_0] -83.348877
+[2019.04.27-21.21.26:791][379]LogBlueprintUserMessages: [BP_GameMode_C_0] -83.848877
+[2019.04.27-21.21.26:808][380]LogBlueprintUserMessages: [BP_GameMode_C_0] -84.348877
+[2019.04.27-21.21.26:824][381]LogBlueprintUserMessages: [BP_GameMode_C_0] -84.848877
+[2019.04.27-21.21.26:841][382]LogBlueprintUserMessages: [BP_GameMode_C_0] -85.348877
+[2019.04.27-21.21.26:858][383]LogBlueprintUserMessages: [BP_GameMode_C_0] -85.848877
+[2019.04.27-21.21.26:875][384]LogBlueprintUserMessages: [BP_GameMode_C_0] -86.348877
+[2019.04.27-21.21.26:891][385]LogBlueprintUserMessages: [BP_GameMode_C_0] -86.848877
+[2019.04.27-21.21.26:908][386]LogBlueprintUserMessages: [BP_GameMode_C_0] -87.348877
+[2019.04.27-21.21.26:924][387]LogBlueprintUserMessages: [BP_GameMode_C_0] -87.848877
+[2019.04.27-21.21.26:941][388]LogBlueprintUserMessages: [BP_GameMode_C_0] -88.348877
+[2019.04.27-21.21.26:958][389]LogBlueprintUserMessages: [BP_GameMode_C_0] -88.848877
+[2019.04.27-21.21.26:974][390]LogBlueprintUserMessages: [BP_GameMode_C_0] -89.348877
+[2019.04.27-21.21.26:991][391]LogBlueprintUserMessages: [BP_GameMode_C_0] -89.848877
+[2019.04.27-21.21.27:008][392]LogBlueprintUserMessages: [BP_GameMode_C_0] -90.348877
+[2019.04.27-21.21.27:024][393]LogBlueprintUserMessages: [BP_GameMode_C_0] -90.848877
+[2019.04.27-21.21.27:042][394]LogBlueprintUserMessages: [BP_GameMode_C_0] -91.348877
+[2019.04.27-21.21.27:058][395]LogBlueprintUserMessages: [BP_GameMode_C_0] -91.848877
+[2019.04.27-21.21.27:074][396]LogBlueprintUserMessages: [BP_GameMode_C_0] -92.348877
+[2019.04.27-21.21.27:091][397]LogBlueprintUserMessages: [BP_GameMode_C_0] -92.848877
+[2019.04.27-21.21.27:108][398]LogBlueprintUserMessages: [BP_GameMode_C_0] -93.348877
+[2019.04.27-21.21.27:125][399]LogBlueprintUserMessages: [BP_GameMode_C_0] -93.848877
+[2019.04.27-21.21.27:141][400]LogBlueprintUserMessages: [BP_GameMode_C_0] -94.348877
+[2019.04.27-21.21.27:158][401]LogBlueprintUserMessages: [BP_GameMode_C_0] -94.848877
+[2019.04.27-21.21.27:175][402]LogBlueprintUserMessages: [BP_GameMode_C_0] -95.348877
+[2019.04.27-21.21.27:191][403]LogBlueprintUserMessages: [BP_GameMode_C_0] -95.848877
+[2019.04.27-21.21.27:208][404]LogBlueprintUserMessages: [BP_GameMode_C_0] -96.348877
+[2019.04.27-21.21.27:224][405]LogBlueprintUserMessages: [BP_GameMode_C_0] -96.848877
+[2019.04.27-21.21.27:241][406]LogBlueprintUserMessages: [BP_GameMode_C_0] -97.348877
+[2019.04.27-21.21.27:259][407]LogBlueprintUserMessages: [BP_GameMode_C_0] -97.848877
+[2019.04.27-21.21.27:275][408]LogBlueprintUserMessages: [BP_GameMode_C_0] -98.348877
+[2019.04.27-21.21.27:291][409]LogBlueprintUserMessages: [BP_GameMode_C_0] -98.848877
+[2019.04.27-21.21.27:308][410]LogBlueprintUserMessages: [BP_GameMode_C_0] -99.348877
+[2019.04.27-21.21.27:324][411]LogBlueprintUserMessages: [BP_GameMode_C_0] -99.848877
+[2019.04.27-21.21.27:341][412]LogBlueprintUserMessages: [BP_GameMode_C_0] -100.348877
+[2019.04.27-21.21.27:358][413]LogBlueprintUserMessages: [BP_GameMode_C_0] -100.848877
+[2019.04.27-21.21.27:375][414]LogBlueprintUserMessages: [BP_GameMode_C_0] -101.348877
+[2019.04.27-21.21.27:391][415]LogBlueprintUserMessages: [BP_GameMode_C_0] -101.848877
+[2019.04.27-21.21.27:408][416]LogBlueprintUserMessages: [BP_GameMode_C_0] -102.348877
+[2019.04.27-21.21.27:425][417]LogBlueprintUserMessages: [BP_GameMode_C_0] -102.848877
+[2019.04.27-21.21.27:442][418]LogBlueprintUserMessages: [BP_GameMode_C_0] -103.348877
+[2019.04.27-21.21.27:458][419]LogBlueprintUserMessages: [BP_GameMode_C_0] -103.848877
+[2019.04.27-21.21.27:475][420]LogBlueprintUserMessages: [BP_GameMode_C_0] -104.348877
+[2019.04.27-21.21.27:492][421]LogBlueprintUserMessages: [BP_GameMode_C_0] -104.848877
+[2019.04.27-21.21.27:508][422]LogBlueprintUserMessages: [BP_GameMode_C_0] -105.348877
+[2019.04.27-21.21.27:525][423]LogBlueprintUserMessages: [BP_GameMode_C_0] -105.848877
+[2019.04.27-21.21.27:541][424]LogBlueprintUserMessages: [BP_GameMode_C_0] -106.348877
+[2019.04.27-21.21.27:559][425]LogBlueprintUserMessages: [BP_GameMode_C_0] -106.848877
+[2019.04.27-21.21.27:575][426]LogBlueprintUserMessages: [BP_GameMode_C_0] -107.348877
+[2019.04.27-21.21.27:592][427]LogBlueprintUserMessages: [BP_GameMode_C_0] -107.848877
+[2019.04.27-21.21.27:608][428]LogBlueprintUserMessages: [BP_GameMode_C_0] -108.348877
+[2019.04.27-21.21.27:625][429]LogBlueprintUserMessages: [BP_GameMode_C_0] -108.848877
+[2019.04.27-21.21.27:642][430]LogBlueprintUserMessages: [BP_GameMode_C_0] -109.348877
+[2019.04.27-21.21.27:659][431]LogBlueprintUserMessages: [BP_GameMode_C_0] -109.848877
+[2019.04.27-21.21.27:675][432]LogBlueprintUserMessages: [BP_GameMode_C_0] -110.348877
+[2019.04.27-21.21.27:692][433]LogBlueprintUserMessages: [BP_GameMode_C_0] -110.848877
+[2019.04.27-21.21.27:709][434]LogBlueprintUserMessages: [BP_GameMode_C_0] -111.348877
+[2019.04.27-21.21.27:725][435]LogBlueprintUserMessages: [BP_GameMode_C_0] -111.848877
+[2019.04.27-21.21.27:742][436]LogBlueprintUserMessages: [BP_GameMode_C_0] -112.348877
+[2019.04.27-21.21.27:759][437]LogBlueprintUserMessages: [BP_GameMode_C_0] -112.848877
+[2019.04.27-21.21.27:775][438]LogBlueprintUserMessages: [BP_GameMode_C_0] -113.348877
+[2019.04.27-21.21.27:791][439]LogBlueprintUserMessages: [BP_GameMode_C_0] -113.848877
+[2019.04.27-21.21.27:809][440]LogBlueprintUserMessages: [BP_GameMode_C_0] -114.348877
+[2019.04.27-21.21.27:825][441]LogBlueprintUserMessages: [BP_GameMode_C_0] -114.848877
+[2019.04.27-21.21.27:842][442]LogBlueprintUserMessages: [BP_GameMode_C_0] -115.348877
+[2019.04.27-21.21.27:859][443]LogBlueprintUserMessages: [BP_GameMode_C_0] -115.848877
+[2019.04.27-21.21.27:875][444]LogBlueprintUserMessages: [BP_GameMode_C_0] -116.348877
+[2019.04.27-21.21.27:891][445]LogBlueprintUserMessages: [BP_GameMode_C_0] -116.848877
+[2019.04.27-21.21.27:908][446]LogBlueprintUserMessages: [BP_GameMode_C_0] -117.348877
+[2019.04.27-21.21.27:925][447]LogBlueprintUserMessages: [BP_GameMode_C_0] -117.848877
+[2019.04.27-21.21.27:941][448]LogBlueprintUserMessages: [BP_GameMode_C_0] -118.348877
+[2019.04.27-21.21.27:958][449]LogBlueprintUserMessages: [BP_GameMode_C_0] -118.848877
+[2019.04.27-21.21.27:975][450]LogBlueprintUserMessages: [BP_GameMode_C_0] -119.348877
+[2019.04.27-21.21.27:992][451]LogBlueprintUserMessages: [BP_GameMode_C_0] -119.848877
+[2019.04.27-21.21.28:008][452]LogBlueprintUserMessages: [BP_GameMode_C_0] -120.348877
+[2019.04.27-21.21.28:025][453]LogBlueprintUserMessages: [BP_GameMode_C_0] -120.848877
+[2019.04.27-21.21.28:042][454]LogBlueprintUserMessages: [BP_GameMode_C_0] -121.348877
+[2019.04.27-21.21.28:058][455]LogBlueprintUserMessages: [BP_GameMode_C_0] -121.848877
+[2019.04.27-21.21.28:075][456]LogBlueprintUserMessages: [BP_GameMode_C_0] -122.348877
+[2019.04.27-21.21.28:092][457]LogBlueprintUserMessages: [BP_GameMode_C_0] -122.848877
+[2019.04.27-21.21.28:108][458]LogBlueprintUserMessages: [BP_GameMode_C_0] -123.348877
+[2019.04.27-21.21.28:125][459]LogBlueprintUserMessages: [BP_GameMode_C_0] -123.848877
+[2019.04.27-21.21.28:142][460]LogBlueprintUserMessages: [BP_GameMode_C_0] -124.348877
+[2019.04.27-21.21.28:159][461]LogBlueprintUserMessages: [BP_GameMode_C_0] -124.848877
+[2019.04.27-21.21.28:175][462]LogBlueprintUserMessages: [BP_GameMode_C_0] -125.348877
+[2019.04.27-21.21.28:192][463]LogBlueprintUserMessages: [BP_GameMode_C_0] -125.848877
+[2019.04.27-21.21.28:208][464]LogBlueprintUserMessages: [BP_GameMode_C_0] -126.348877
+[2019.04.27-21.21.28:225][465]LogBlueprintUserMessages: [BP_GameMode_C_0] -126.848877
+[2019.04.27-21.21.28:242][466]LogBlueprintUserMessages: [BP_GameMode_C_0] -127.348877
+[2019.04.27-21.21.28:258][467]LogBlueprintUserMessages: [BP_GameMode_C_0] -127.848877
+[2019.04.27-21.21.28:275][468]LogBlueprintUserMessages: [BP_GameMode_C_0] -128.348877
+[2019.04.27-21.21.28:292][469]LogBlueprintUserMessages: [BP_GameMode_C_0] -128.848877
+[2019.04.27-21.21.28:308][470]LogBlueprintUserMessages: [BP_GameMode_C_0] -129.348877
+[2019.04.27-21.21.28:326][471]LogBlueprintUserMessages: [BP_GameMode_C_0] -129.848877
+[2019.04.27-21.21.28:342][472]LogBlueprintUserMessages: [BP_GameMode_C_0] -130.348877
+[2019.04.27-21.21.28:359][473]LogBlueprintUserMessages: [BP_GameMode_C_0] -130.848877
+[2019.04.27-21.21.28:376][474]LogBlueprintUserMessages: [BP_GameMode_C_0] -131.348877
+[2019.04.27-21.21.28:392][475]LogBlueprintUserMessages: [BP_GameMode_C_0] -131.848877
+[2019.04.27-21.21.28:409][476]LogBlueprintUserMessages: [BP_GameMode_C_0] -132.348877
+[2019.04.27-21.21.28:426][477]LogBlueprintUserMessages: [BP_GameMode_C_0] -132.848877
+[2019.04.27-21.21.28:443][478]LogBlueprintUserMessages: [BP_GameMode_C_0] -133.348877
+[2019.04.27-21.21.28:459][479]LogBlueprintUserMessages: [BP_GameMode_C_0] -133.848877
+[2019.04.27-21.21.28:476][480]LogBlueprintUserMessages: [BP_GameMode_C_0] -134.348877
+[2019.04.27-21.21.28:493][481]LogBlueprintUserMessages: [BP_GameMode_C_0] -134.848877
+[2019.04.27-21.21.28:509][482]LogBlueprintUserMessages: [BP_GameMode_C_0] -135.348877
+[2019.04.27-21.21.28:526][483]LogBlueprintUserMessages: [BP_GameMode_C_0] -135.848877
+[2019.04.27-21.21.28:543][484]LogBlueprintUserMessages: [BP_GameMode_C_0] -136.348877
+[2019.04.27-21.21.28:560][485]LogBlueprintUserMessages: [BP_GameMode_C_0] -136.848877
+[2019.04.27-21.21.28:576][486]LogBlueprintUserMessages: [BP_GameMode_C_0] -137.348877
+[2019.04.27-21.21.28:593][487]LogBlueprintUserMessages: [BP_GameMode_C_0] -137.848877
+[2019.04.27-21.21.28:610][488]LogBlueprintUserMessages: [BP_GameMode_C_0] -138.348877
+[2019.04.27-21.21.28:626][489]LogBlueprintUserMessages: [BP_GameMode_C_0] -138.848877
+[2019.04.27-21.21.28:642][490]LogBlueprintUserMessages: [BP_GameMode_C_0] -139.348877
+[2019.04.27-21.21.28:659][491]LogBlueprintUserMessages: [BP_GameMode_C_0] -139.848877
+[2019.04.27-21.21.28:677][492]LogBlueprintUserMessages: [BP_GameMode_C_0] -140.348877
+[2019.04.27-21.21.28:693][493]LogBlueprintUserMessages: [BP_GameMode_C_0] -140.848877
+[2019.04.27-21.21.28:710][494]LogBlueprintUserMessages: [BP_GameMode_C_0] -141.348877
+[2019.04.27-21.21.28:727][495]LogBlueprintUserMessages: [BP_GameMode_C_0] -141.848877
+[2019.04.27-21.21.28:743][496]LogBlueprintUserMessages: [BP_GameMode_C_0] -142.348877
+[2019.04.27-21.21.28:760][497]LogBlueprintUserMessages: [BP_GameMode_C_0] -142.848877
+[2019.04.27-21.21.28:776][498]LogBlueprintUserMessages: [BP_GameMode_C_0] -143.348877
+[2019.04.27-21.21.28:793][499]LogBlueprintUserMessages: [BP_GameMode_C_0] -143.848877
+[2019.04.27-21.21.28:810][500]LogBlueprintUserMessages: [BP_GameMode_C_0] -144.348877
+[2019.04.27-21.21.28:827][501]LogBlueprintUserMessages: [BP_GameMode_C_0] -144.848877
+[2019.04.27-21.21.28:843][502]LogBlueprintUserMessages: [BP_GameMode_C_0] -145.348877
+[2019.04.27-21.21.28:859][503]LogBlueprintUserMessages: [BP_GameMode_C_0] -145.848877
+[2019.04.27-21.21.28:876][504]LogBlueprintUserMessages: [BP_GameMode_C_0] -146.348877
+[2019.04.27-21.21.28:893][505]LogBlueprintUserMessages: [BP_GameMode_C_0] -146.848877
+[2019.04.27-21.21.28:909][506]LogBlueprintUserMessages: [BP_GameMode_C_0] -147.348877
+[2019.04.27-21.21.28:926][507]LogBlueprintUserMessages: [BP_GameMode_C_0] -147.848877
+[2019.04.27-21.21.28:943][508]LogBlueprintUserMessages: [BP_GameMode_C_0] -148.348877
+[2019.04.27-21.21.28:960][509]LogBlueprintUserMessages: [BP_GameMode_C_0] -148.848877
+[2019.04.27-21.21.28:976][510]LogBlueprintUserMessages: [BP_GameMode_C_0] -149.348877
+[2019.04.27-21.21.28:993][511]LogBlueprintUserMessages: [BP_GameMode_C_0] -149.848877
+[2019.04.27-21.21.29:009][512]LogBlueprintUserMessages: [BP_GameMode_C_0] -150.348877
+[2019.04.27-21.21.29:026][513]LogBlueprintUserMessages: [BP_GameMode_C_0] -150.848877
+[2019.04.27-21.21.29:043][514]LogBlueprintUserMessages: [BP_GameMode_C_0] -151.348877
+[2019.04.27-21.21.29:059][515]LogBlueprintUserMessages: [BP_GameMode_C_0] -151.848877
+[2019.04.27-21.21.29:076][516]LogBlueprintUserMessages: [BP_GameMode_C_0] -152.348877
+[2019.04.27-21.21.29:093][517]LogBlueprintUserMessages: [BP_GameMode_C_0] -152.848877
+[2019.04.27-21.21.29:110][518]LogBlueprintUserMessages: [BP_GameMode_C_0] -153.348877
+[2019.04.27-21.21.29:126][519]LogBlueprintUserMessages: [BP_GameMode_C_0] -153.848877
+[2019.04.27-21.21.29:144][520]LogBlueprintUserMessages: [BP_GameMode_C_0] -154.348877
+[2019.04.27-21.21.29:160][521]LogBlueprintUserMessages: [BP_GameMode_C_0] -154.848877
+[2019.04.27-21.21.29:176][522]LogBlueprintUserMessages: [BP_GameMode_C_0] -155.348877
+[2019.04.27-21.21.29:193][523]LogBlueprintUserMessages: [BP_GameMode_C_0] -155.848877
+[2019.04.27-21.21.29:210][524]LogBlueprintUserMessages: [BP_GameMode_C_0] -156.348877
+[2019.04.27-21.21.29:227][525]LogBlueprintUserMessages: [BP_GameMode_C_0] -156.848877
+[2019.04.27-21.21.29:243][526]LogBlueprintUserMessages: [BP_GameMode_C_0] -157.348877
+[2019.04.27-21.21.29:260][527]LogBlueprintUserMessages: [BP_GameMode_C_0] -157.848877
+[2019.04.27-21.21.29:277][528]LogBlueprintUserMessages: [BP_GameMode_C_0] -158.348877
+[2019.04.27-21.21.29:293][529]LogBlueprintUserMessages: [BP_GameMode_C_0] -158.848877
+[2019.04.27-21.21.29:310][530]LogBlueprintUserMessages: [BP_GameMode_C_0] -159.348877
+[2019.04.27-21.21.29:327][531]LogBlueprintUserMessages: [BP_GameMode_C_0] -159.848877
+[2019.04.27-21.21.29:343][532]LogBlueprintUserMessages: [BP_GameMode_C_0] -160.348877
+[2019.04.27-21.21.29:361][533]LogBlueprintUserMessages: [BP_GameMode_C_0] -160.848877
+[2019.04.27-21.21.29:377][534]LogBlueprintUserMessages: [BP_GameMode_C_0] -161.348877
+[2019.04.27-21.21.29:393][535]LogBlueprintUserMessages: [BP_GameMode_C_0] -161.848877
+[2019.04.27-21.21.29:410][536]LogBlueprintUserMessages: [BP_GameMode_C_0] -162.348877
+[2019.04.27-21.21.29:413][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/William/Maps/TestField.TestField:PersistentLevel' has LevelScriptBlueprint '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField' with GeneratedClass '/Game/William/Maps/TestField.TestField_C' with ClassGeneratedBy '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField'
+[2019.04.27-21.21.29:447][536]LogSlate: Window 'HeavenPath Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.27-21.21.29:483][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/William/Maps/TestField.TestField:PersistentLevel' has LevelScriptBlueprint '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField' with GeneratedClass '/Game/William/Maps/TestField.TestField_C' with ClassGeneratedBy '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField'
+[2019.04.27-21.21.30:582][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ScreenLeft)
+[2019.04.27-21.21.34:049][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ScreenRight)
+[2019.04.27-21.21.35:187][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-21.21.38:911][ 89]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.27-21.21.43:403][358]LogSlate: Window 'Select Path' being destroyed
+[2019.04.27-21.21.58:249][246]LogSlate: Window 'Select Path' being destroyed
+[2019.04.27-21.22.19:536][930]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\MayaProject_HeavensPath\assets\Handle\SM_Handle.fbx)
+[2019.04.27-21.22.19:548][930]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2019.04.27-21.22.19:548][930]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2019.04.27-21.22.19:548][930]LogFbx: ItemName: Model, ItemCount : 4
+[2019.04.27-21.22.19:548][930]LogFbx: ItemName: Geometry, ItemCount : 2
+[2019.04.27-21.22.19:549][930]LogFbx: ItemName: Material, ItemCount : 1
+[2019.04.27-21.22.19:554][930]LogFbx: Loading FBX Scene from F:\MayaProject_HeavensPath\assets\Handle\SM_Handle.fbx
+[2019.04.27-21.22.19:561][930]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.27-21.22.23:049][930]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.27-21.22.23:096][930]LogFbx: Loading FBX Scene from F:\MayaProject_HeavensPath\assets\Handle\SM_Handle.fbx
+[2019.04.27-21.22.23:104][930]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.27-21.22.23:104][930]LogFbx: Warning: Triangulating static mesh polySurface12
+[2019.04.27-21.22.23:111][930]LogStaticMesh: Building static mesh SM_Handle_polySurface12...
+[2019.04.27-21.22.23:118][930]LogStaticMesh: Built static mesh [0.01s] /Game/William/Mesh/SM_Handle_polySurface12.SM_Handle_polySurface12
+[2019.04.27-21.22.23:129][930]LogFbx: Warning: Triangulating static mesh polySurface10
+[2019.04.27-21.22.23:132][930]LogStaticMesh: Building static mesh SM_Handle_polySurface10...
+[2019.04.27-21.22.23:135][930]LogStaticMesh: Built static mesh [0.00s] /Game/William/Mesh/SM_Handle_polySurface10.SM_Handle_polySurface10
+[2019.04.27-21.22.35:747][441]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.27-21.23.03:038][ 72]LogSlate: Window 'Select Path' being destroyed
+[2019.04.27-21.23.22:649][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-21.23.24:063][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ScreenLeft)
+[2019.04.27-21.23.25:078][247]LogEditorViewport: Clicking on Actor (LMB): BP_Screen_C (BP_Screen)
+[2019.04.27-21.23.28:339][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ScreenLeft)
+[2019.04.27-21.23.29:383][488]Cmd: DELETE
+[2019.04.27-21.23.29:383][488]Cmd: ACTOR DELETE
+[2019.04.27-21.23.29:387][488]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.27-21.23.29:414][488]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.04.27-21.23.29:807][512]LogEditorViewport: Clicking on Actor (LMB): BP_Screen_C (BP_Screen)
+[2019.04.27-21.23.30:767][566]Cmd: EDIT COPY
+[2019.04.27-21.23.30:987][579]Cmd: EDIT PASTE
+[2019.04.27-21.23.32:484][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-21.23.35:345][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-21.23.42:733][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-21.23.47:365][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/William/Blueprints/UI/UI" FILE="G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/William/Blueprints/UI/UI.uasset" SILENT=true
+[2019.04.27-21.23.47:510][466]LogSavePackage: Save=89.84ms
+[2019.04.27-21.23.47:510][466]LogSavePackage: Moving 'G:/Heaven'sPath/ProjetUnreal/HeavenPath/Saved/UIC88146EA4F043BAECF823096B0A1E472.tmp' to 'G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/William/Blueprints/UI/UI.uasset'
+[2019.04.27-21.23.47:514][466]LogSavePackage: Display: Finished SavePackage G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/William/Blueprints/UI/UI.uasset
+[2019.04.27-21.23.48:603][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-21.23.49:706][523]LogSlate: Window 'Save Content' being destroyed
+[2019.04.27-21.23.49:720][523]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-21.23.49:754][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/William/Blueprints/BP_Screen" FILE="G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/William/Blueprints/BP_Screen.uasset" SILENT=true
+[2019.04.27-21.23.49:786][523]LogSavePackage: Save=29.41ms
+[2019.04.27-21.23.49:786][523]LogSavePackage: Moving 'G:/Heaven'sPath/ProjetUnreal/HeavenPath/Saved/BP_Screen950F2F854683ACFA10AC31ADAA82B173.tmp' to 'G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/William/Blueprints/BP_Screen.uasset'
+[2019.04.27-21.23.49:791][523]LogSavePackage: Display: Finished SavePackage G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/William/Blueprints/BP_Screen.uasset
+[2019.04.27-21.23.49:868][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/William/Maps/TestField" FILE="G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/William/Maps/TestField.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.27-21.23.50:275][523]LogSavePackage: Save=251.97ms
+[2019.04.27-21.23.50:275][523]LogSavePackage: Moving 'G:/Heaven'sPath/ProjetUnreal/HeavenPath/Saved/TestField822C4995490C40E322AB56B0512C9762.tmp' to 'G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/William/Maps/TestField.umap'
+[2019.04.27-21.23.50:281][523]LogSavePackage: Display: Finished SavePackage G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/William/Maps/TestField.umap
+[2019.04.27-21.23.50:323][523]LogFileHelpers: Saving map 'TestField' took 0.527
+[2019.04.27-21.23.50:918][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-21.24.22:232][354]BlueprintLog: New page: Compile UI
+[2019.04.27-21.24.22:612][354]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b1aded5780, Size=128
+[2019.04.27-21.24.22:612][354]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b23e64e180, Size=128, Default__UI_C Function /Engine/Transient.REINST_UI_C_2:ExecuteUbergraph_UI
+[2019.04.27-21.24.22:616][354]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b225bb32e0, Size=200, Default__UI_C Function /Game/William/Blueprints/UI/UI.UI_C:ExecuteUbergraph_UI
+[2019.04.27-21.24.24:285][422]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b23e64e180, Size=128
+[2019.04.27-21.24.25:132][422]LogSlate: Window 'Save Content' being destroyed
+[2019.04.27-21.24.25:144][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-21.24.25:159][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/William/Blueprints/UI/UI" FILE="G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/William/Blueprints/UI/UI.uasset" SILENT=true
+[2019.04.27-21.24.25:221][422]LogSavePackage: Save=56.05ms
+[2019.04.27-21.24.25:221][422]LogSavePackage: Moving 'G:/Heaven'sPath/ProjetUnreal/HeavenPath/Saved/UIB6BA01204E0284E2200E1C87E026E747.tmp' to 'G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/William/Blueprints/UI/UI.uasset'
+[2019.04.27-21.24.25:225][422]LogSavePackage: Display: Finished SavePackage G:/Heaven'sPath/ProjetUnreal/HeavenPath/Content/William/Blueprints/UI/UI.uasset
+[2019.04.27-21.24.28:284][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-21.24.29:448][669]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.27-21.24.29:476][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/William/Maps/TestField.TestField:PersistentLevel' has LevelScriptBlueprint '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField' with GeneratedClass '/Game/William/Maps/TestField.TestField_C' with ClassGeneratedBy '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField'
+[2019.04.27-21.24.29:476][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.27-21.24.29:476][669]PIE: New page: PIE session: TestField (28 avr. 2019 01:24:29)
+[2019.04.27-21.24.29:476][669]LogPlayLevel: Creating play world package: /Game/William/Maps/UEDPIE_0_TestField
+[2019.04.27-21.24.29:493][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016585s)
+[2019.04.27-21.24.29:494][669]LogAIModule: Creating AISystem for world TestField
+[2019.04.27-21.24.29:495][669]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2019.04.27-21.24.29:495][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/William/Maps/TestField.TestField to /Game/William/Maps/UEDPIE_0_TestField.TestField (0.018183s)
+[2019.04.27-21.24.29:530][669]LogInit: XAudio2 using 'Haut-parleur (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.27-21.24.29:539][669]LogInit: FAudioDevice initialized.
+[2019.04.27-21.24.29:592][669]LogLoad: Game class is 'BP_GameMode_C'
+[2019.04.27-21.24.29:594][669]LogWorld: Bringing World /Game/William/Maps/UEDPIE_0_TestField.TestField up for play (max tick rate 60) at 2019.04.27-23.24.29
+[2019.04.27-21.24.29:595][669]LogWorld: Bringing up level for play took: 0.001408
+[2019.04.27-21.24.29:597][669]LogBlueprintUserMessages: [UI_C_12] BP_Screen
+[2019.04.27-21.24.29:597][669]LogBlueprintUserMessages: [UI_C_12] BP_Screen2
+[2019.04.27-21.24.29:604][669]PIE: Play in editor start time for /Game/William/Maps/UEDPIE_0_TestField -0,545
+[2019.04.27-21.24.29:605][669]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/William/Maps/TestField.TestField:PersistentLevel' has LevelScriptBlueprint '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField' with GeneratedClass '/Game/William/Maps/TestField.TestField_C' with ClassGeneratedBy '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField'
+[2019.04.27-21.24.29:605][669]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.033333
+[2019.04.27-21.24.29:718][670]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.066667
+[2019.04.27-21.24.29:737][671]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.1
+[2019.04.27-21.24.29:757][672]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.133333
+[2019.04.27-21.24.29:774][673]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.166667
+[2019.04.27-21.24.29:790][674]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.2
+[2019.04.27-21.24.29:807][675]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.233333
+[2019.04.27-21.24.29:824][676]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.266667
+[2019.04.27-21.24.29:840][677]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.3
+[2019.04.27-21.24.29:857][678]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.333333
+[2019.04.27-21.24.29:873][679]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.366667
+[2019.04.27-21.24.29:890][680]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.4
+[2019.04.27-21.24.29:907][681]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.433333
+[2019.04.27-21.24.29:923][682]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.466667
+[2019.04.27-21.24.29:940][683]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.5
+[2019.04.27-21.24.29:957][684]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.533333
+[2019.04.27-21.24.29:973][685]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.566667
+[2019.04.27-21.24.29:990][686]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.6
+[2019.04.27-21.24.30:007][687]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.633333
+[2019.04.27-21.24.30:024][688]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.666667
+[2019.04.27-21.24.30:040][689]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.7
+[2019.04.27-21.24.30:057][690]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.733333
+[2019.04.27-21.24.30:074][691]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.766666
+[2019.04.27-21.24.30:090][692]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.8
+[2019.04.27-21.24.30:107][693]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.833333
+[2019.04.27-21.24.30:124][694]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.866666
+[2019.04.27-21.24.30:141][695]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.9
+[2019.04.27-21.24.30:157][696]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.933333
+[2019.04.27-21.24.30:174][697]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.966666
+[2019.04.27-21.24.30:191][698]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.0
+[2019.04.27-21.24.30:214][699]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.033333
+[2019.04.27-21.24.30:227][700]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.066666
+[2019.04.27-21.24.30:244][701]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.099999
+[2019.04.27-21.24.30:261][702]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.133333
+[2019.04.27-21.24.30:278][703]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.166666
+[2019.04.27-21.24.30:294][704]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.199999
+[2019.04.27-21.24.30:311][705]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.233333
+[2019.04.27-21.24.30:329][706]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.266666
+[2019.04.27-21.24.30:347][707]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.299999
+[2019.04.27-21.24.30:364][708]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.333333
+[2019.04.27-21.24.30:381][709]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.366666
+[2019.04.27-21.24.30:397][710]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.399999
+[2019.04.27-21.24.30:414][711]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.433332
+[2019.04.27-21.24.30:430][712]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.466666
+[2019.04.27-21.24.30:447][713]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.499999
+[2019.04.27-21.24.30:464][714]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.533332
+[2019.04.27-21.24.30:481][715]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.566666
+[2019.04.27-21.24.30:497][716]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.599999
+[2019.04.27-21.24.30:514][717]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.633332
+[2019.04.27-21.24.30:531][718]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.666666
+[2019.04.27-21.24.30:548][719]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.699999
+[2019.04.27-21.24.30:564][720]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.733332
+[2019.04.27-21.24.30:580][721]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.766665
+[2019.04.27-21.24.30:597][722]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.799999
+[2019.04.27-21.24.30:613][723]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.833332
+[2019.04.27-21.24.30:630][724]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.866665
+[2019.04.27-21.24.30:646][725]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.899999
+[2019.04.27-21.24.30:663][726]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.933332
+[2019.04.27-21.24.30:680][727]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.966665
+[2019.04.27-21.24.30:697][728]LogBlueprintUserMessages: [BP_GameMode_C_0] -1.999999
+[2019.04.27-21.24.30:713][729]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.033332
+[2019.04.27-21.24.30:730][730]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.066665
+[2019.04.27-21.24.30:746][731]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.099998
+[2019.04.27-21.24.30:763][732]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.133332
+[2019.04.27-21.24.30:780][733]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.166665
+[2019.04.27-21.24.30:797][734]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.199998
+[2019.04.27-21.24.30:814][735]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.233332
+[2019.04.27-21.24.30:830][736]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.266665
+[2019.04.27-21.24.30:847][737]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.299998
+[2019.04.27-21.24.30:864][738]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.333332
+[2019.04.27-21.24.30:881][739]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.366665
+[2019.04.27-21.24.30:898][740]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.399998
+[2019.04.27-21.24.30:914][741]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.433331
+[2019.04.27-21.24.30:931][742]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.466665
+[2019.04.27-21.24.30:948][743]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.499998
+[2019.04.27-21.24.30:964][744]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.533331
+[2019.04.27-21.24.30:980][745]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.566665
+[2019.04.27-21.24.30:998][746]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.599998
+[2019.04.27-21.24.31:014][747]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.633331
+[2019.04.27-21.24.31:030][748]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.666665
+[2019.04.27-21.24.31:047][749]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.699998
+[2019.04.27-21.24.31:064][750]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.733331
+[2019.04.27-21.24.31:081][751]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.766665
+[2019.04.27-21.24.31:097][752]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.799998
+[2019.04.27-21.24.31:114][753]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.833331
+[2019.04.27-21.24.31:131][754]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.866664
+[2019.04.27-21.24.31:148][755]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.899998
+[2019.04.27-21.24.31:164][756]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.933331
+[2019.04.27-21.24.31:181][757]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.966664
+[2019.04.27-21.24.31:198][758]LogBlueprintUserMessages: [BP_GameMode_C_0] -2.999998
+[2019.04.27-21.24.31:214][759]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.033331
+[2019.04.27-21.24.31:231][760]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.066664
+[2019.04.27-21.24.31:247][761]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.099998
+[2019.04.27-21.24.31:264][762]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.133331
+[2019.04.27-21.24.31:281][763]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.166664
+[2019.04.27-21.24.31:298][764]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.199997
+[2019.04.27-21.24.31:314][765]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.233331
+[2019.04.27-21.24.31:332][766]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.266664
+[2019.04.27-21.24.31:347][767]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.299997
+[2019.04.27-21.24.31:364][768]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.333331
+[2019.04.27-21.24.31:381][769]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.366664
+[2019.04.27-21.24.31:397][770]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.399997
+[2019.04.27-21.24.31:414][771]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.433331
+[2019.04.27-21.24.31:431][772]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.466664
+[2019.04.27-21.24.31:447][773]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.499997
+[2019.04.27-21.24.31:463][774]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.53333
+[2019.04.27-21.24.31:480][775]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.566664
+[2019.04.27-21.24.31:497][776]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.599997
+[2019.04.27-21.24.31:514][777]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.63333
+[2019.04.27-21.24.31:530][778]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.666664
+[2019.04.27-21.24.31:547][779]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.699997
+[2019.04.27-21.24.31:564][780]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.73333
+[2019.04.27-21.24.31:581][781]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.766664
+[2019.04.27-21.24.31:596][782]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.799997
+[2019.04.27-21.24.31:613][783]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.83333
+[2019.04.27-21.24.31:630][784]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.866663
+[2019.04.27-21.24.31:647][785]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.899997
+[2019.04.27-21.24.31:663][786]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.93333
+[2019.04.27-21.24.31:680][787]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.966663
+[2019.04.27-21.24.31:697][788]LogBlueprintUserMessages: [BP_GameMode_C_0] -3.999997
+[2019.04.27-21.24.31:713][789]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.03333
+[2019.04.27-21.24.31:730][790]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.066663
+[2019.04.27-21.24.31:747][791]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.099997
+[2019.04.27-21.24.31:764][792]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.13333
+[2019.04.27-21.24.31:780][793]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.166663
+[2019.04.27-21.24.31:797][794]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.199996
+[2019.04.27-21.24.31:814][795]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.23333
+[2019.04.27-21.24.31:831][796]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.266663
+[2019.04.27-21.24.31:847][797]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.299996
+[2019.04.27-21.24.31:864][798]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.33333
+[2019.04.27-21.24.31:881][799]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.366663
+[2019.04.27-21.24.31:898][800]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.399996
+[2019.04.27-21.24.31:914][801]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.43333
+[2019.04.27-21.24.31:931][802]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.466663
+[2019.04.27-21.24.31:947][803]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.499996
+[2019.04.27-21.24.31:964][804]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.533329
+[2019.04.27-21.24.31:980][805]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.566663
+[2019.04.27-21.24.31:997][806]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.599996
+[2019.04.27-21.24.32:014][807]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.633329
+[2019.04.27-21.24.32:030][808]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.666663
+[2019.04.27-21.24.32:047][809]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.699996
+[2019.04.27-21.24.32:064][810]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.733329
+[2019.04.27-21.24.32:080][811]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.766663
+[2019.04.27-21.24.32:097][812]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.799996
+[2019.04.27-21.24.32:114][813]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.833329
+[2019.04.27-21.24.32:131][814]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.866663
+[2019.04.27-21.24.32:147][815]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.899996
+[2019.04.27-21.24.32:164][816]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.933329
+[2019.04.27-21.24.32:180][817]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.966662
+[2019.04.27-21.24.32:197][818]LogBlueprintUserMessages: [BP_GameMode_C_0] -4.999996
+[2019.04.27-21.24.32:214][819]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.033329
+[2019.04.27-21.24.32:231][820]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.066662
+[2019.04.27-21.24.32:247][821]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.099996
+[2019.04.27-21.24.32:264][822]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.133329
+[2019.04.27-21.24.32:281][823]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.166662
+[2019.04.27-21.24.32:298][824]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.199996
+[2019.04.27-21.24.32:314][825]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.233329
+[2019.04.27-21.24.32:331][826]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.266662
+[2019.04.27-21.24.32:347][827]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.299995
+[2019.04.27-21.24.32:363][828]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.333329
+[2019.04.27-21.24.32:380][829]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.366662
+[2019.04.27-21.24.32:397][830]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.399995
+[2019.04.27-21.24.32:413][831]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.433329
+[2019.04.27-21.24.32:430][832]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.466662
+[2019.04.27-21.24.32:447][833]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.499995
+[2019.04.27-21.24.32:464][834]LogBlueprintUserMessages: [BP_GameMode_C_0] -5.533329
+[2019.04.27-21.24.32:465][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/William/Maps/TestField.TestField:PersistentLevel' has LevelScriptBlueprint '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField' with GeneratedClass '/Game/William/Maps/TestField.TestField_C' with ClassGeneratedBy '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField'
+[2019.04.27-21.24.32:485][834]LogSlate: Window 'HeavenPath Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.27-21.24.32:526][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/William/Maps/TestField.TestField:PersistentLevel' has LevelScriptBlueprint '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField' with GeneratedClass '/Game/William/Maps/TestField.TestField_C' with ClassGeneratedBy '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField'
+[2019.04.27-21.24.37:340][117]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b23d0b1a68, Size=4, Default__SKEL_UI_C Function /Game/William/Blueprints/UI/UI.SKEL_UI_C:ExecuteUbergraph_UI
+[2019.04.27-21.24.43:920][480]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b23d0b1a68, Size=4
+[2019.04.27-21.24.43:920][480]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b2446c17f0, Size=4, Default__SKEL_UI_C Function /Engine/Transient.REINST_SKEL_UI_C_4:ExecuteUbergraph_UI
+[2019.04.27-21.24.43:923][480]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b2446c1fc0, Size=4, Default__SKEL_UI_C Function /Game/William/Blueprints/UI/UI.SKEL_UI_C:ExecuteUbergraph_UI
+[2019.04.27-21.24.44:625][513]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b2446c1fc0, Size=4
+[2019.04.27-21.24.44:625][513]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b2219fe9f0, Size=4, Default__SKEL_UI_C Function /Engine/Transient.REINST_SKEL_UI_C_5:ExecuteUbergraph_UI
+[2019.04.27-21.24.44:628][513]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b2219fc478, Size=4, Default__SKEL_UI_C Function /Game/William/Blueprints/UI/UI.SKEL_UI_C:ExecuteUbergraph_UI
+[2019.04.27-21.24.55:322][131]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b2219fc478, Size=4
+[2019.04.27-21.24.55:322][131]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b2446c3e78, Size=4, Default__SKEL_UI_C Function /Engine/Transient.REINST_SKEL_UI_C_6:ExecuteUbergraph_UI
+[2019.04.27-21.24.55:325][131]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b2446c3db0, Size=4, Default__SKEL_UI_C Function /Game/William/Blueprints/UI/UI.SKEL_UI_C:ExecuteUbergraph_UI
+[2019.04.27-21.25.00:796][436]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b2446c3db0, Size=4
+[2019.04.27-21.25.00:797][436]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b2180784b8, Size=4, Default__SKEL_UI_C Function /Engine/Transient.REINST_SKEL_UI_C_7:ExecuteUbergraph_UI
+[2019.04.27-21.25.00:799][436]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b21807b0e0, Size=4, Default__SKEL_UI_C Function /Game/William/Blueprints/UI/UI.SKEL_UI_C:ExecuteUbergraph_UI
+[2019.04.27-21.25.03:858][602]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b21807b0e0, Size=4
+[2019.04.27-21.25.03:858][602]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b2449b4628, Size=4, Default__SKEL_UI_C Function /Engine/Transient.REINST_SKEL_UI_C_8:ExecuteUbergraph_UI
+[2019.04.27-21.25.03:860][602]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b2449b5c38, Size=4, Default__SKEL_UI_C Function /Game/William/Blueprints/UI/UI.SKEL_UI_C:ExecuteUbergraph_UI
+[2019.04.27-21.25.06:637][752]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b2449b5c38, Size=4
+[2019.04.27-21.25.06:637][752]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b244dd0d48, Size=4, Default__SKEL_UI_C Function /Engine/Transient.REINST_SKEL_UI_C_9:ExecuteUbergraph_UI
+[2019.04.27-21.25.06:640][752]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b244dd3570, Size=4, Default__SKEL_UI_C Function /Game/William/Blueprints/UI/UI.SKEL_UI_C:ExecuteUbergraph_UI
+[2019.04.27-21.25.20:660][554]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.04.27-21.25.20:681][554]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/William/Maps/TestField.TestField:PersistentLevel' has LevelScriptBlueprint '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField' with GeneratedClass '/Game/William/Maps/TestField.TestField_C' with ClassGeneratedBy '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField'
+[2019.04.27-21.25.20:681][554]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.27-21.25.20:692][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b244dd3570, Size=4
+[2019.04.27-21.25.20:692][554]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b244825d10, Size=4, Default__SKEL_UI_C Function /Engine/Transient.REINST_SKEL_UI_C_10:ExecuteUbergraph_UI
+[2019.04.27-21.25.20:702][554]LogPlayLevel: [PlayLevel] Compiling UI before play...
+[2019.04.27-21.25.20:712][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b225bb32e0, Size=200
+[2019.04.27-21.25.20:712][554]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b2430d4720, Size=200, Default__UI_C Function /Engine/Transient.REINST_UI_C_11:ExecuteUbergraph_UI
+[2019.04.27-21.25.20:716][554]LogUObjectGlobals: Created PersistentFrame Addr=0x000002b217f79900, Size=184, Default__UI_C Function /Game/William/Blueprints/UI/UI.UI_C:ExecuteUbergraph_UI
+[2019.04.27-21.25.20:833][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b2219fe9f0, Size=4
+[2019.04.27-21.25.20:833][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b244825d10, Size=4
+[2019.04.27-21.25.20:833][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b244dd0d48, Size=4
+[2019.04.27-21.25.20:833][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b2449b4628, Size=4
+[2019.04.27-21.25.20:833][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b2180784b8, Size=4
+[2019.04.27-21.25.20:833][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b2446c3e78, Size=4
+[2019.04.27-21.25.20:833][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002b2446c17f0, Size=4
+[2019.04.27-21.25.20:835][554]LogPlayLevel: PlayLevel: Blueprint regeneration took 153 ms (1 blueprints)
+[2019.04.27-21.25.20:835][554]PIE: New page: PIE session: TestField (28 avr. 2019 01:25:20)
+[2019.04.27-21.25.20:835][554]LogPlayLevel: Creating play world package: /Game/William/Maps/UEDPIE_0_TestField
+[2019.04.27-21.25.20:853][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018232s)
+[2019.04.27-21.25.20:854][554]LogAIModule: Creating AISystem for world TestField
+[2019.04.27-21.25.20:855][554]LogPlayLevel: PIE: World Init took: (0.001324s)
+[2019.04.27-21.25.20:855][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/William/Maps/TestField.TestField to /Game/William/Maps/UEDPIE_0_TestField.TestField (0.019856s)
+[2019.04.27-21.25.20:891][554]LogInit: XAudio2 using 'Haut-parleur (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.27-21.25.20:900][554]LogInit: FAudioDevice initialized.
+[2019.04.27-21.25.20:947][554]LogLoad: Game class is 'BP_GameMode_C'
+[2019.04.27-21.25.20:949][554]LogWorld: Bringing World /Game/William/Maps/UEDPIE_0_TestField.TestField up for play (max tick rate 60) at 2019.04.27-23.25.20
+[2019.04.27-21.25.20:950][554]LogWorld: Bringing up level for play took: 0.001546
+[2019.04.27-21.25.20:952][554]LogBlueprintUserMessages: [UI_C_26] BP_Screen2
+[2019.04.27-21.25.20:958][554]PIE: Play in editor start time for /Game/William/Maps/UEDPIE_0_TestField 0,809
+[2019.04.27-21.25.20:958][554]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/William/Maps/TestField.TestField:PersistentLevel' has LevelScriptBlueprint '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField' with GeneratedClass '/Game/William/Maps/TestField.TestField_C' with ClassGeneratedBy '/Game/William/Maps/TestField.TestField:PersistentLevel.TestField'
+[2019.04.27-21.25.20:959][554]LogBlueprintUserMessages: [BP_GameMode_C_0] -0.033333
+[2019.04.27-21.25.20:959][554]LogWindows: Windows GetLastError: L’opération a réussi. (0)
